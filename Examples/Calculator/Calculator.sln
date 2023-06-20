@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanOrg.Calculator.Gateway
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanOrg.Calculator.Gateway.Net.Tests", "Tests\CleanOrg.Calculator.Gateway.Net.Tests\CleanOrg.Calculator.Gateway.Net.Tests.csproj", "{DCEE81B3-C3F5-4558-AEA0-93E329A1494D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanOrg.Calculator.UI", "Source\CleanOrg.Calculator.UI\CleanOrg.Calculator.UI.csproj", "{5F86A096-8394-42E0-A5DA-EAA26AAC387C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DCEE81B3-C3F5-4558-AEA0-93E329A1494D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCEE81B3-C3F5-4558-AEA0-93E329A1494D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCEE81B3-C3F5-4558-AEA0-93E329A1494D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F86A096-8394-42E0-A5DA-EAA26AAC387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F86A096-8394-42E0-A5DA-EAA26AAC387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F86A096-8394-42E0-A5DA-EAA26AAC387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F86A096-8394-42E0-A5DA-EAA26AAC387C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
